@@ -15,4 +15,4 @@ Cette quête t'apprendra à utiliser Git avec un repository distant.
 * merge
  
 #### Critères de validation
-- [ ] La branche master doit contenir le fichier` wild.php`.
+- [x] La branche master doit contenir le fichier` wild.php`.
